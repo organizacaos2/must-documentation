@@ -2,34 +2,37 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Aplicações
 
-Let's discover **Docusaurus in less than 5 minutes**.
+![Must Docs](/img/logos/mustdocs.png)
 
-## Getting Started
+Desenvolvido com a tecnologia blockchain e smart contracts, a aplicação Must Docs é uma solução descentralizada de validação de documentos digitais que oferece ao usuário o controle total de seus dados.
 
-Get started by **creating a new site**.
+![Must Vote](/img/logos/mustvote.png)
 
-Or **try Docusaurus immediately** with **[new.docusaurus.io](https://new.docusaurus.io)**.
+A aplicação Must Vote utiliza a  arquitetura blockchain fornecendo um registro transparente, seguro, compartilhado e confiável dos votos e uma nova maneira de validar e autenticar o voto. 
 
-## Generate a new site
+![Must Create](/img/logos/mustcreate.png)
 
-Generate a new Docusaurus site using the **classic template**:
+Uma ferramenta para criar seu Token sem código e em poucos passos.
 
-```shell
-npx @docusaurus/init@latest init my-website classic
-```
+![Must Explore](/img/logos/mustexplore.png)
 
-## Start your site
+Um explorador de blocos confiável e um mecanismo de busca de transações criptográficas.
 
-Run the development server:
+![Must Save](/img/logos/mustsave.png)
 
-```shell
-cd my-website
+Faça transferências, verifique o saldo, faça backup da frase-semente, adicione fichas e gerencie sua moeda facilmente.
 
-npx docusaurus start
-```
+## Must secure
 
-Your site starts at `http://localhost:3000`.
+Criação de um Ecossistema tecnológico que faça uma adequação radical no atual processo de fornecedores de produtos de Seguro no país.
 
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes.
+## Must ERP
+
+Sistema integrado de gestão das atividades comerciais de uma empresa, tais como: movimentação de estoque, clientes, documentos, funcionários, impostos, produtos, serviços. 
+
+
+## CO2
+
+Aplicação Web que administra a emissão do selo da Proar. Os Produtores e suas Produções são cadastradas e validadas e suas produções submetidas a uma auditoria para a emissão do selo validado.

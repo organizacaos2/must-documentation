@@ -34,7 +34,7 @@ More security when encrypting your document to send to the validator
 
 Click the "Create account" button.
 
-![Login](/img/must-docs/1-login.png)
+![Login](/img/must-docs/Signin1.png)
 
 2. Must Docs creates a wallet for you and displays the mneumonic phrase. 
 
@@ -47,11 +47,11 @@ Download your mneumonic phrase to store in a safe place by clicking on the downl
 Click on the “I saved my mneumonic” button to proceed
 
 
-![Create account](/img/must-docs/2-create-account.png)
+![Create account](/img/must-docs/Create1.png)
 
 3. Paste the mneumonic phrase in the field with the same name. Create a password and confirm your password. Click the "Confirm" button.
 
-![Mneumonic](/img/must-docs/3-mneumonic.png)
+![Mneumonic](/img/must-docs/Create2.png)
 
 4. Great! Your account was created! Now just use your password and click on the “Sign in” button to access Must Docs.
 
@@ -65,16 +65,16 @@ The smart contract Registry is responsible for managing the entire Must Docs eco
 
 1. We display the address of the smart contract that is managing Must Docs. Click the "Enter" button to continue.
 
-![Registry](/img/must-docs/6-registrySC.png)
+![Registry](/img/must-docs/Signin2.png)
 
 ### Create Persona smart contract
 2.  To create the Persona smart contract, fill in the nickname field with a name for your smart contract and click the “Create” button.
 
-![Persona](/img/must-docs/7-create-personaSC.png)
+![Persona](/img/must-docs/CreateP.png)
 
 ## Must Docs Dashboard
 
-![Dashboard](/img/must-docs/8-dashboard.png)
+![Dashboard](/img/must-docs/Dashboard.png)
 
 Your documents are separated into 3 statuses:
 
@@ -92,7 +92,7 @@ Navigation is done by the top menu.
 1. On the Dashboard page, click on “Add Information” on the top menu. The add information page will open.
 Select the type of document and enter the value of the information in the value field. Must Docs generates a hash for the value entered in the field.
 
-![Add information](/img/must-docs/9-addInformation.png)
+![Add information](/img/must-docs/AddInfo.png)
 
 2. Add a document for the value of the information. Click "Add document" and select the file on your device. Must Docs generates a hash for validating the file by the validator.
 Warning! This same file that you inserted and the hash was generated must be sent to the validated, if you send a different file the validator cannot confirm your document..
@@ -111,11 +111,11 @@ Warning! This same file that you inserted and the hash was generated must be sen
 
 1. Click on “Request Validation” in the top menu. The validation submission page will open. Select the document to be sent. Then select which validator you are going to send your document.
 
-![Validate](/img/must-docs/14-requestValidate.png)
+![Validate](/img/must-docs/SendToValidate.png)
 
 2. Insert the same document that you added in the step of adding your information. Click the "Encrypt for validator" button and select the document. Click "Encrypt". Must Docs will encrypt the document for you.
 
-![Validate](/img/must-docs/14-requestValidate-2.png)
+![Validate](/img/must-docs/SendToValidate2.png)
 
 3. Download your document. ***(For user protection the file is being downloaded as unsave)***.
 
@@ -131,7 +131,7 @@ Warning! This same file that you inserted and the hash was generated must be sen
 
 ### Profile and Security
 
-![Profile](/img/must-docs/16-Profile.png)
+![Profile](/img/must-docs/Profile.png)
 
 
 This section displays all of your profile information.

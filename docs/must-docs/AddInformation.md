@@ -27,7 +27,7 @@ sidebar_position: 7
 
 ## SCREEN DRAFTS
 
-![Add Information](/img/must-docs/AddInformation.png)
+![Add Information](/img/must-docs/AddInfo.png)
 
 ## USER STORY CARD
 

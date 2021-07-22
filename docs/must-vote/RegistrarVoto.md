@@ -30,9 +30,9 @@ sidebar_position: 7
 
 ## SCREEN DRAFTS
 
-![Buscar Candidato](/img/must-vote/Registrar1.png)
+![Buscar Candidato](/img/must-vote/RegistrarV2.png)
 
-![Buscar Candidato](/img/must-vote/Registrar2.png)
+![Buscar Candidato](/img/must-vote/Registrar2V2.png)
 
 
 ## USER STORY CARD

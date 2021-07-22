@@ -21,7 +21,7 @@ sidebar_position: 6
 
 ## SCREEN DRAFTS
 
-![Create Persona](/img/must-docs/CreatePersona.png)
+![Create Persona](/img/must-docs/CreateP.png)
 
 
 ## USER STORY CARD

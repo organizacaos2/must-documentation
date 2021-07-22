@@ -5,12 +5,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'Must Blockchain',
   tagline: 'Welcome to Must Blockchain Knowledge base space',
-  url: 'https://organizacaos2.github.io/',
+  url: 'https://mustdocumentation.github.io/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'organizacaos2', // Usually your GitHub org/user name.
+  organizationName: 'Must Blockchain', // Usually your GitHub org/user name.
   projectName: 'must-documentation', // Usually your repo name.
   trailingSlash: false,
   themeConfig: {
@@ -28,7 +28,7 @@ module.exports = {
           label: 'Documentation',
         },
         {
-          href: 'https://github.com/organizacaos2/organizacaos2.github.io/tree/develop',
+          href: 'https://github.com/must-documentation/must-documentation.github.io/tree/develop',
           label: 'GitHub',
           position: 'right',
         },
@@ -51,7 +51,7 @@ module.exports = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/organizacaos2/organizacaos2.github.io/tree/develop',
+              href: 'https://github.com/must-documentation/must-documentation.github.io/tree/develop',
             },
           ],
         },
@@ -71,7 +71,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/organizacaos2/organizacaos2.github.io',
+            'https://github.com/must-documentation/must-documentation.github.io',
         },
         blog: {
           showReadingTime: true,

@@ -26,7 +26,7 @@ sidebar_position: 2
 
 ## SCREEN DRAFTS
 
-![Buscar Candidato](/img/must-vote/Login.png)
+![Buscar Candidato](/img/must-vote/LoginV2.png)
 
 
 ## USER STORY CARD

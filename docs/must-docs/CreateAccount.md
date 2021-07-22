@@ -31,7 +31,6 @@ sidebar_position: 5
 
 ![Create wallet-1](/img/must-docs/Create1.png)
 ![Create wallet-2](/img/must-docs/Create2.png)
-![Create wallet-3](/img/must-docs/Create3.png)
 
 **Restore wallet:**
 
@@ -106,10 +105,10 @@ As a user I want to create my wallet
  
 Background:
     Given I acess the Sigin Page
-    When I selected "Create wallet" 
-    Then I click "copy" my <mneumonic> phrase
-    And I click "I saved my mneumonic" button
- 
+    When I selected "Create wallet" 
+    Then I click "copy" my <mneumonic> phrase
+    And I click "I saved my mneumonic" button
+
  Examples:
     |   Password  |    Confirm Password    |
     |   123456    |     123456             |
