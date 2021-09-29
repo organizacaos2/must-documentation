@@ -30,6 +30,8 @@
 
 ![2](/img/must-ERP/confirmar-venda2.png)
 
+![4](/img/must-ERP/confirmar-venda4.png)
+
 ## BUSINESS PROCESS
 
 ![3](/img/must-ERP/confirmar-venda3.png)

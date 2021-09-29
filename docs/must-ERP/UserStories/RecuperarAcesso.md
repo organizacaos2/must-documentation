@@ -18,6 +18,8 @@
 
 ![1](/img/must-ERP/RecuperarSenha.png)
 
+![2](/img/must-ERP/RecuperarAcesso.png)
+
 ## USER STORY CARD
 
 **Name:** Recuperar acesso

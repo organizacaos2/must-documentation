@@ -18,9 +18,7 @@
 
 ## SCREEN DRAFTS
 
-![1](/img/must-ERP/vincular-loja1.png)
-
-![2](/img/must-ERP/vincular-loja2.png)
+![1](/img/must-ERP/vincular-loja.png)
 
 ## USER STORY CARD
 

@@ -1,4 +1,4 @@
-# Vincular role (função) usuário
+# Gerenciar funções
 
 ## VALUE PROPOSITION
 
@@ -16,11 +16,77 @@
 
 - Cada usuário cadastrado pode ser vinculado a uma role
 
+- Controle de acesso:
+
+**Administrador:**
+
+- Todas as permissões
+
+**Backoffice:**
+
+- Cadastrar loja
+
+- Cadastrar marca
+
+- Cadastrar fornecedor
+
+- Cadastrar categorias
+
+- Cadastro de variação
+
+**Supervisor:**
+
+- Vincular loja-usuário
+
+- Movimentar produtos
+
+**Gestor de estoque:**
+
+- Cadastrar produto
+
+**Visualizar estoque:**
+
+- Visualizar lista de produtos
+
+**Vendedor:**
+
+- Lançar produtos
+
+- Registrar venda
+
+- Gerenciar pontos de fidelidade
+
+**Operador de caixa:**
+
+- Abrir caixa
+
+- Selecionar lançamentos do caixa
+
+- Fechar caixa
+
+**Financeiro:**
+
+- Listar contas a receber
+
+- Registrar contas
+
+- Visualizar Fluxo de caixa
+
+**Nota fiscal:**
+
+- Gerenciar NF de saida
+
+- Gerenciar NF de entrada
+
+**Contabil:**
+
+- Fechamento de períodos contábeis
+
 ## SCREEN DRAFTS
 
-![1](/img/must-ERP/vincular-role1.png)
+![1](/img/must-ERP/roles1.png)
 
-![2](/img/must-ERP/vincular-role2.png)
+![2](/img/must-ERP/roles2.png)
 
 ## USER STORY CARD
 

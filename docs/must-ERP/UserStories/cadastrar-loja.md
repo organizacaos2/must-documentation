@@ -22,6 +22,8 @@
 
 ![1](/img/must-ERP/cadastrar-loja.png)
 
+![2](/img/must-ERP/cadastrar-loja2.png)
+
 ## USER STORY CARD
 
 **Name:** Cadastrar Loja

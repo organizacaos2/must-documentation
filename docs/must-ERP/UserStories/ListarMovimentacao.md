@@ -39,9 +39,7 @@
 
 ## SCREEN DRAFTS
 
-![1](/img/must-ERP/listar-movimentacao1.png)
-
-![1](/img/must-ERP/listar-movimentacao2.png)
+![1](/img/must-ERP/listar-movimentacao.png)
 
 ## USER STORY CARD
 

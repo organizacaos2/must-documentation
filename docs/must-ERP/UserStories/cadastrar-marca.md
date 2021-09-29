@@ -20,7 +20,9 @@
 
 ## SCREEN DRAFTS
 
-![1](/img/must-ERP/cadastrar-loja.png)
+![1](/img/must-ERP/cadastrar-marca.png)
+
+![2](/img/must-ERP/cadastrar-marca2.png)
 
 ## USER STORY CARD
 

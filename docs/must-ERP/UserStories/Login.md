@@ -22,6 +22,8 @@
 
 ![1](/img/must-ERP/login.png)
 
+![2](/img/must-ERP/login2.png)
+
 ## USER STORY CARD
 
 **Name:** Login na aplicação

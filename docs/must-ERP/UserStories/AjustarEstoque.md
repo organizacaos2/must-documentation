@@ -37,9 +37,11 @@
 
 ## SCREEN DRAFTS
 
-![1](/img/must-ERP/ajustar-estoque.png)
+![1](/img/must-ERP/ajustar-estoque1.png)
 
-## USER STORY CARD<
+![2](/img/must-ERP/ajustar-estoque2.png)
+
+## USER STORY CARD
 
 **Name:** Ajustar Estoque
 

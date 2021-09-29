@@ -19,7 +19,7 @@
 
 ## SCREEN DRAFTS
 
-![1](/img/must-ERP/cadastrar-fornecedor1.png)
+![1](/img/must-ERP/cadastrar-fornecedor.png)
 
 ![2](/img/must-ERP/cadastrar-fornecedor2.png)
 

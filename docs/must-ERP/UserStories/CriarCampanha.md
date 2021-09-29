@@ -37,6 +37,9 @@
 ![4](/img/must-ERP/criar-campanha4.png)
   Entrada = Produto
 
+![5](/img/must-ERP/criar-campanha5.png)
+
+![6](/img/must-ERP/criar-campanha6.png)
 
 ## USER STORY CARD
 

@@ -24,6 +24,10 @@
 
 ![1](/img/must-ERP/fechamento-caixa2.png)
 
+![1](/img/must-ERP/fechamento-caixa3.png)
+
+![1](/img/must-ERP/fechamento-caixa4.png)
+
 ## USER STORY CARD
 
 **Name:** Fechamento do caixa
