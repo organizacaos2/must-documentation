@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 ---
-# Product Requirements
+# Requisitos de produtos
 
 ## Objective
 
@@ -37,10 +37,10 @@ To access the navigable process click on the link:
 
 | Requirement | User Story |
 | ----------- | ---------- |
-| [Create Account](CreateAccount.md) | As a user I want to create an account to use Must Docs and keep my documents safe. |
-| [Restore Account](CreateAccount.md) | As a user who already has an account I want to be able to recover my account to use Must Docs and keep my documents safe. |
-| [Create Persona](CreatePersona.md) | As a user I want to create my Persona to add my information and documents. |
-| [Add Information](AddInformation.md) | As a Persona I want to add my information and documents to be able to validate them |
+| Create Account| As a user I want to create an account to use Must Docs and keep my documents safe. |
+| Restore Account | As a user who already has an account I want to be able to recover my account to use Must Docs and keep my documents safe. |
+| Create Persona | As a user I want to create my Persona to add my information and documents. |
+| Add Information | As a Persona I want to add my information and documents to be able to validate them |
 | Validate Information | As a validator I want to access an application to validate the information sent to me. |
 | Access profile information | As a Must Docs user I want to access my profile information in the application. |
 | Certifications | As Persona I want to create and receive certificates |

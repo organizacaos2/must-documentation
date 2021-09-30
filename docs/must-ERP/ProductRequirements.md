@@ -1,5 +1,7 @@
 # Requisitos de produto
 
+![Must ERP](/img/logos/musterp.png)
+
 ## Objetivo
 
 Sistema integrado de gestão das atividades comerciais de uma empresa, tais como: movimentação de estoque, clientes, documentos, funcionários, impostos, produtos, serviços. 

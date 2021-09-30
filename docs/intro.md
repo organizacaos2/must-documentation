@@ -24,11 +24,11 @@ Um explorador de blocos confiável e um mecanismo de busca de transações cript
 
 Faça transferências, verifique o saldo, faça backup da frase-semente, adicione fichas e gerencie sua moeda facilmente.
 
-## Must secure
+![Must Insurance](/img/logos/mustinsurance.png)
 
 Criação de um Ecossistema tecnológico que faça uma adequação radical no atual processo de fornecedores de produtos de Seguro no país.
 
-## Must ERP
+![Must ERP](/img/logos/musterp.png)
 
 Sistema integrado de gestão das atividades comerciais de uma empresa, tais como: movimentação de estoque, clientes, documentos, funcionários, impostos, produtos, serviços. 
 
