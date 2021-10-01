@@ -29,7 +29,9 @@
 
 ![2](/img/must-ERP/cadastrar-produto2.png)
 
-## USER STORY CARD
+:::note
+
+**USER STORY CARD**
 
 **Name:** Cadastrar Produto
 
@@ -71,6 +73,8 @@ Delete Product
 **Messages:**
 
 1. menssagen de alerta: ```Os campos marcados com * são de preenchimento obrigatório.```
+
+:::
 
 ## SCENARIOS
 

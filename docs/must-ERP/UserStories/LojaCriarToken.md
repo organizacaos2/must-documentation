@@ -42,7 +42,9 @@
 
 ![2](/img/must-ERP/criar-token2.png)
 
-## USER STORY CARD
+:::note
+
+**USER STORY CARD**
 
 **Name:** Criar token para campanhas
 
@@ -84,6 +86,8 @@
 - mensagem de alerta (1) - Campo < nome-campo > precisa estar preenchido.
 
 - exibe mensagem de alerta (2) - Símbolo token já existe.
+
+:::
 
 ## SCENARIOS
 

@@ -24,7 +24,9 @@
 
 ![2](/img/must-ERP/login2.png)
 
-## USER STORY CARD
+:::note
+
+**USER STORY CARD**
 
 **Name:** Login na aplicação
 
@@ -70,6 +72,8 @@
 - Usuário cadastrado acessa a aplicação
 
 **Messages:**
+
+:::
 
 ## SCENARIOS
 

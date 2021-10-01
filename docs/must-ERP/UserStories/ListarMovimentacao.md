@@ -41,7 +41,9 @@
 
 ![1](/img/must-ERP/listar-movimentacao.png)
 
-## USER STORY CARD
+:::note
+
+**USER STORY CARD**
 
 **Name:** Listar movimentação de estoque
 
@@ -83,7 +85,7 @@
 
 **Messages:**
 
-
+:::
 
 ## SCENARIOS
 

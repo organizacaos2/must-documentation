@@ -30,7 +30,9 @@
 
 ![3](/img/must-ERP/cadastrar-categorias3.png)
 
-## USER STORY CARD
+:::note
+
+**USER STORY CARD**
 
 **Name:** Cadastrar categoria
 
@@ -66,6 +68,8 @@
 **Messages:**
 
 - mensagem de alerta (1) - Campos obrigatórios devem ser preenchidos
+
+:::
 
 ## SCENARIOS
 

@@ -32,7 +32,9 @@
 
 ![2](/img/must-ERP/listar-recebiveis2.png)
 
-## USER STORY CARD
+:::note
+
+**USER STORY CARD**
 
 **Name:** Caixa listar recebíveis
 
@@ -84,7 +86,7 @@
 
 **Messages:**
 
-
+:::
 
 ## SCENARIOS
 

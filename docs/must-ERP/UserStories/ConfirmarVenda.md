@@ -36,7 +36,9 @@
 
 ![3](/img/must-ERP/confirmar-venda3.png)
 
-## USER STORY CARD
+:::note
+
+**USER STORY CARD**
 
 **Name:** Confirmar Venda
 
@@ -92,6 +94,8 @@
 **Messages:**
 	
 - mensagem de alerta (1) - Selecione o meio de pagamento!
+
+:::
 
 ## SCENARIOS
 

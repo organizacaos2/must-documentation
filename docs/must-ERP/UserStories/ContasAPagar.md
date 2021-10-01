@@ -46,7 +46,9 @@
 
 ![2](/img/must-ERP/contas-a-pagar2.png)
 
-## USER STORY CARD
+:::note
+
+**USER STORY CARD**
 
 **Name:** Contas a pagar - Financeiro
 
@@ -88,7 +90,7 @@
 
 **Messages:**
 
-
+:::
 
 ## SCENARIOS
 

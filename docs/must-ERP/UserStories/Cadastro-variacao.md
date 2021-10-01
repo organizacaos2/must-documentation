@@ -22,7 +22,9 @@
 
 ![2](/img/must-ERP/cadastrar-variacao2.png)
 
-## USER STORY CARD
+:::note
+
+**USER STORY CARD**
 
 **Name:** Cadastrar variação
 
@@ -55,6 +57,8 @@
 **Messages:**
 
 - mensagem de alerta (1) - Campos obrigatórios devem ser preenchidos
+
+:::
 
 ## SCENARIOS
 

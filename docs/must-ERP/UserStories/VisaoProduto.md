@@ -34,7 +34,9 @@
 
 ![2](/img/must-ERP/visao-produto2.png)
 
-## USER STORY CARD
+:::note
+
+**USER STORY CARD**
 
 **Name:** Visão de produtos do estoque
 
@@ -78,7 +80,7 @@
 
 **Messages:**
 
-
+:::
 
 ## SCENARIOS
 

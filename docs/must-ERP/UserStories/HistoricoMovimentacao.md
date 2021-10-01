@@ -20,7 +20,9 @@
 
 ![1](/img/must-ERP/historico-movimentacao.png)
 
-## USER STORY CARD
+:::note
+
+**USER STORY CARD**
 
 **Name:** Listar movimentação token campanha
 
@@ -72,7 +74,7 @@
 
 **Messages:**
 
-
+:::
 
 ## SCENARIOS
 

@@ -20,7 +20,9 @@
 
 ![1](/img/must-ERP/vincular-loja.png)
 
-## USER STORY CARD
+:::note
+
+**USER STORY CARD**
 
 **Name:** Vincular loja usuário
 
@@ -57,7 +59,7 @@
 
 **Messages:**
 
-
+:::
 
 ## SCENARIOS
 

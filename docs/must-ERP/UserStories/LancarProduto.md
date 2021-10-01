@@ -38,7 +38,9 @@
 
 ![2](/img/must-ERP/lancar-produto2.png)
 
-## USER STORY CARD
+:::note
+
+**USER STORY CARD**
 
 **Name:** Lançar Venda
 
@@ -114,7 +116,7 @@
 
 **Messages:**
 
-
+:::
 
 ## SCENARIOS
 

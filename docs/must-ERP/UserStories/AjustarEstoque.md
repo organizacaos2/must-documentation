@@ -41,7 +41,9 @@
 
 ![2](/img/must-ERP/ajustar-estoque2.png)
 
-## USER STORY CARD
+:::note
+
+**USER STORY CARD**
 
 **Name:** Ajustar Estoque
 
@@ -105,7 +107,7 @@
 
 **Messages:**
 
-
+:::
 
 ## SCENARIOS
 

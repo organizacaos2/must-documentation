@@ -28,7 +28,9 @@
 
 ![1](/img/must-ERP/fechamento-caixa4.png)
 
-## USER STORY CARD
+:::note
+
+**USER STORY CARD**
 
 **Name:** Fechamento do caixa
 
@@ -66,7 +68,7 @@ Caixa encerrado para conferências
 
 **Messages:**
 
-
+:::
 
 ## SCENARIOS
 

@@ -24,7 +24,9 @@
 
 ![2](/img/must-ERP/cadastrar-loja2.png)
 
-## USER STORY CARD
+:::note
+
+**USER STORY CARD**
 
 **Name:** Cadastrar Loja
 
@@ -87,6 +89,8 @@
 1.	mensagem de alerta (1) - Formato inválido
 2.	mensagem de alerta (2) - Campos obrigatórios devem ser preenchidos
 3.	mensagem de alerta (3) - Deseja remover a loja”nomeLoja”?
+
+:::
 
 ## SCENARIOS
 

@@ -18,7 +18,7 @@ O sistema também terá um mecanismo de criação de benefícios com a distribui
 
 ## Requisitos
 
-| Requirement | User Story | Status |
+| Requirement | User Story | Status    |
 | - | - | - |
 | Login | Como um usuário cadastrado quero fazer o login na aplicação. | **DONE** |
 | Login com 2FA | Como um usuário cadastrado quero fazer o login na aplicação com segurança. | **DONE** |

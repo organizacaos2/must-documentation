@@ -77,7 +77,9 @@ Admin: adicionar NF, editar NF, visualizar NF e alterar status NF, excluir NF
 
 ![3](/img/must-ERP/NF-saida3.png)
 
-## USER STORY CARD
+:::note
+
+USER STORY CARD
 
 **Name:** Cadastrar NF de Saída
 
@@ -130,7 +132,7 @@ Admin: adicionar NF, editar NF, visualizar NF e alterar status NF, excluir NF
 
 **Messages:**
 
-
+:::
 
 ## SCENARIOS
 

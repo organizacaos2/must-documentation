@@ -88,7 +88,9 @@
 
 ![2](/img/must-ERP/roles2.png)
 
-## USER STORY CARD
+:::note
+
+**USER STORY CARD**
 
 **Name:** Vincular role (função) usuário
 
@@ -121,7 +123,7 @@ Usuário cadastrado na aplicação com função vinculada
 
 **Messages:**
 
-
+:::
 
 ## SCENARIOS
 

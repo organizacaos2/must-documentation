@@ -29,7 +29,9 @@
 
 ![2](/img/must-ERP/cadastrar-usuario2.png)
 
-## USER STORY CARD
+:::note
+
+**USER STORY CARD**
 
 **Name:** Cadastrar usuário
 
@@ -95,6 +97,8 @@
 2. mensagem de alerta (2) - Campos obrigatórios
 
 3. mensagem de alerta (3) - Deseja remover o usuário "nomeUsuario"?
+
+:::
 
 ## SCENARIOS
 

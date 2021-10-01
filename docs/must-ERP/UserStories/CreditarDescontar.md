@@ -36,7 +36,9 @@ A lista de recebimentos do caixa exibe como detalhe da venda a tela de lançamen
 
 ![2](/img/must-ERP/creditar-descontar2.png)
 
-## USER STORY CARD
+:::note
+
+**USER STORY CARD**
 
 **Name:** Creditar ou Descontar pontos de fidelidade
 
@@ -85,7 +87,7 @@ A lista de recebimentos do caixa exibe como detalhe da venda a tela de lançamen
 
 **Messages:**
 
-
+:::
 
 ## SCENARIOS
 

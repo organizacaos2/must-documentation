@@ -20,7 +20,9 @@
 
 ![2](/img/must-ERP/RecuperarAcesso.png)
 
-## USER STORY CARD
+:::note
+
+**USER STORY CARD**
 
 **Name:** Recuperar acesso
 
@@ -58,7 +60,7 @@ Usuário cadastra nova senha
 
 **Messages:**
 
-
+:::
 
 ## SCENARIOS
 

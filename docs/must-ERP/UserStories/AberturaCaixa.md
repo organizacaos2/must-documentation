@@ -30,7 +30,9 @@
 
 ![1](/img/must-ERP/abertura-caixa.png)
 
-## USER STORY CARD
+:::note Card
+
+**USER STORY CARD**
 
 **Name:** Abertura do caixa
 
@@ -66,7 +68,7 @@
 
 **Messages:**
 
-
+:::
 
 ## SCENARIOS
 

@@ -31,7 +31,9 @@
 
 ![1](/img/must-ERP/listar-contas.png)
 
-## USER STORY CARD
+:::note
+
+**USER STORY CARD**
 
 **Name:** Listar contas a receber - financeiro
 
@@ -64,7 +66,7 @@
 
 **Messages:**
 
-
+:::
 
 ## SCENARIOS
 

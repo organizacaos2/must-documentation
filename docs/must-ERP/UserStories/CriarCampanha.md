@@ -41,7 +41,9 @@
 
 ![6](/img/must-ERP/criar-campanha6.png)
 
-## USER STORY CARD
+:::note
+
+**USER STORY CARD**
 
 **Name:** Criar Campanha
 
@@ -134,6 +136,8 @@
 - mensagem de alerta (2) - Campos em destaque são obrigatórios.
 
 - mensagem de alerta (3) - Data precisa ser maior que data atual.
+
+:::
 
 ## SCENARIOS
 
