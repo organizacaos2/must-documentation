@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Requisitos Must Vote
+# Requisitos de produtos
 
 ## Objective
 
@@ -24,13 +24,13 @@ Para acessar o processo navegável clique no link:
 
 | Requirement | User Story |
 | ----------- | ---------- |
-| [Login vote](Login.md) | Como usuário quero logar na aplicação usando meu CPF para acessar a eleição |
+| Login vote | Como usuário quero logar na aplicação usando meu CPF para acessar a eleição |
 | Criar conta | Como usuário quero registrar minha wallet para criar uma conta e acessar a eleição. |
-| [Buscar candidato](BuscarCandidato.md) | Como usuário quero registrar meu voto apenas digitando o numero do candidato |
-| [Listar candidato](ListarCandidato.md) | Como usuário quero ver a lista de candidatos para selecionar |
-| [Registrar voto](RegistrarVoto.md) | Como eleitor quero acessar a área de eleição e escolher um cadidato para registrar meu voto. |
-| [Exibir Resultado da eleição](ExibirResultado.md) | Como eleitor quero consultar o resultado da eleição. |
-| [Consultar base de dados da apuração](ConsultarApuracao.md) | Como eleitor quero mais transparência na apuração dos votos. |
+| Buscar candidato | Como usuário quero registrar meu voto apenas digitando o numero do candidato |
+| Listar candidato | Como usuário quero ver a lista de candidatos para selecionar |
+| Registrar voto | Como eleitor quero acessar a área de eleição e escolher um cadidato para registrar meu voto. |
+| Exibir Resultado da eleição | Como eleitor quero consultar o resultado da eleição. |
+| Consultar base de dados da apuração | Como eleitor quero mais transparência na apuração dos votos. |
 | Proof of Identity | Como usuário quero poder me identificar para registrar o meu voto de maneira segura. |
 | Create election | Como administrador da eleição quero criar uma nova eleição. |
 | Register candidates | Como administrador da eleição quero registrar os candidatos na eleição.  |
